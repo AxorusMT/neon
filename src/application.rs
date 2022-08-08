@@ -40,7 +40,7 @@ impl Application {
                 }
             }
 
-            self.window.clear(Color::RED);
+            self.window.clear(Color::BLACK);
             self.window.display();
         }
     }

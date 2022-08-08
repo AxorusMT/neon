@@ -2,7 +2,8 @@ use application::Application;
 use sfml::{graphics::RenderWindow, window::Style};
 
 mod application;
-mod scene;
+mod keyboard;
+
 //mod scene;
 
 fn main() {
